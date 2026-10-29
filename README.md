@@ -39,7 +39,7 @@ My process combines fundamental analysis, event-driven research, scenario analys
 
 ### Full Research Memo
 
-[Kioxia Holdings — Buy-Side Research Memo](research/Kioxia/Kioxia_285A_KXIAY_Buy_Side_Research_Memo_2026-10-29.pdf)
+[Kioxia Holdings — Buy-Side Research Memo](research/Kioxia/Kioxia_Buy_Side_Research_Memo_2026-10-29.pdf.pdf)
 
 ## Research Philosophy
 
