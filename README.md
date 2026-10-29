@@ -41,6 +41,32 @@ My process combines fundamental analysis, event-driven research, scenario analys
 
 [Kioxia Holdings — Buy-Side Research Memo](research/Kioxia/Kioxia_Buy_Side_Research_Memo_2026-10-29.pdf.pdf)
 
+
+---
+
+### Fabrinet (NYSE: FN)
+
+**Research Date:** 29 October 2026  
+**Sector:** Optical Communications / AI Infrastructure  
+**Research Status:** WATCH
+
+#### Core Research Question
+
+> Can Fabrinet convert AI-driven optical networking growth into sustainable free cash flow, or will increasing capital intensity limit long-term shareholder returns?
+
+#### Key Topics Covered
+
+- Competitive positioning and switching costs
+- AI optical networking and data-centre demand
+- Earnings quality and free cash flow conversion
+- Working capital, CAPEX and capacity utilisation
+- Bear / Base / Bull valuation scenarios
+- Downside risks and thesis reassessment criteria
+
+#### Full Research Memo
+
+[Fabrinet — Independent Buy-Side Research Memo](research/Fabrinet/Fabrinet_FN_Investment_Research_Memo_2026-10-29.pdf)
+
 ## Research Philosophy
 
 My research process focuses on several recurring questions:
