@@ -1,80 +1,65 @@
-Lawrence Zhang — Investment Research Portfolio
+# Lawrence Zhang — Investment Research Portfolio
 
 Independent fundamental investment research focused on asymmetric opportunities, variant perception, catalysts, valuation, downside risk, and thesis falsification.
 
-Research Approach
+## Research Approach
 
 My investment research follows a private, structured decision-making process developed through repeated company analysis and investment case reviews.
 
 The objective is not simply to identify high-quality companies, but to determine whether:
 
-market expectations materially diverge from underlying fundamentals;
-
-a clear catalyst exists to close that gap;
-
-downside risk is acceptable relative to upside;
-
-the investment thesis remains robust under adverse scenarios;
-
-the evidence is strong enough to justify further research or capital allocation.
+- market expectations materially diverge from underlying fundamentals;
+- a clear catalyst exists to close that gap;
+- downside risk is acceptable relative to upside;
+- the investment thesis remains robust under adverse scenarios;
+- the evidence is strong enough to justify further research or capital allocation.
 
 My process combines fundamental analysis, event-driven research, scenario analysis, base-rate thinking, and explicit thesis falsification.
 
-Published Research
+## Published Research
 
-Kioxia Holdings (285A / KXIAY)
+### Kioxia Holdings (285A / KXIAY)
 
-Research Date: 29 October 2026
-Sector: Semiconductors / NAND Flash / Enterprise SSD
-Research State: WATCH
+**Research Date:** 29 October 2026  
+**Sector:** Semiconductors / NAND Flash / Enterprise SSD  
+**Research State:** **WATCH**
 
-Core research question:
+### Core Research Question
 
-Can AI storage structurally raise Kioxia’s normalized earnings above historical NAND-cycle levels?
+> Can AI storage structurally raise Kioxia’s normalized earnings above historical NAND-cycle levels?
 
-Key topics covered:
+### Key Topics Covered
 
-AI inference and enterprise SSD demand
+- AI inference and enterprise SSD demand
+- NAND ASP cycle
+- TOPIX passive-flow catalyst
+- Normalized earnings valuation
+- Supply expansion and YMTC competition
+- Bear / Base / Bull scenario analysis
 
-NAND ASP cycle
+### Full Research Memo
 
-TOPIX passive-flow catalyst
+[Kioxia Holdings — Buy-Side Research Memo](research/Kioxia/Kioxia_285A_KXIAY_Buy_Side_Research_Memo_2026-10-29.pdf)
 
-Normalized earnings valuation
-
-Supply expansion and YMTC competition
-
-Bear / Base / Bull scenario analysis
-
-Full research memo:
-
-research/Kioxia/Kioxia_285A_KXIAY_Buy_Side_Research_Memo_2026-10-29.pdf
-
-Research Philosophy
+## Research Philosophy
 
 My research process focuses on several recurring questions:
 
-What does the market currently believe?
-
-Where might that consensus be wrong?
-
-What evidence supports the alternative view?
-
-What catalyst could cause expectations to change?
-
-What would invalidate the thesis?
-
-What is the potential permanent downside if the thesis is wrong?
-
-Is the expected upside sufficient relative to the risk, time, and attention required?
+- What does the market currently believe?
+- Where might that consensus be wrong?
+- What evidence supports the alternative view?
+- What catalyst could cause expectations to change?
+- What would invalidate the thesis?
+- What is the potential permanent downside if the thesis is wrong?
+- Is the expected upside sufficient relative to the risk, time, and attention required?
 
 The emphasis is on disciplined judgment rather than mechanical scoring.
 
 Research outcomes are generally classified as:
 
-REJECT / WATCH / THESIS READY
+**REJECT / WATCH / THESIS READY**
 
-Disclaimer
+## Disclaimer
 
 This repository contains independent research produced for educational, professional portfolio, and research purposes only.
 
