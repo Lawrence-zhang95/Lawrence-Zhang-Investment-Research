@@ -37,10 +37,16 @@ My process combines fundamental analysis, event-driven research, scenario analys
 - Supply expansion and YMTC competition
 - Bear / Base / Bull scenario analysis
 
-### Full Research Memo
 
-[Kioxia Holdings — Buy-Side Research Memo](research/Kioxia/Kioxia_Buy_Side_Research_Memo_2026-10-29.pdf.pdf)
+### Full Research Memos
 
+**Latest Update — 30 October 2026**
+
+[Read Updated Kioxia Research Memo](research/Kioxia/Kioxia_285A_KXIAY_Buy_Side_Research_Memo_2026-10-30.pdf)
+
+**Previous Version — 29 October 2026**
+
+[Read Original Kioxia Research Memo](research/Kioxia/Kioxia_Buy_Side_Research_Memo_2026-10-29.pdf.pdf)
 
 ---
 
